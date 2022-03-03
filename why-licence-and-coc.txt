@@ -1,0 +1,6 @@
+Why the GNU General Public License?
+    I chose the GNU as it provides the contributor with the ability to modify the code while stll keeping some structure. Because it is copylefted, the contributer must include this license when they choose to distribute on their own
+
+
+Why the Contrubutors Covenant?
+    This code of conduct, while clear and concise, explains thuroughly all of the values this program is based on. It sets good expectations on being a good person and clearly explains the consequences of being detrimental to the assignment.
